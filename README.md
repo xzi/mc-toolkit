@@ -18,7 +18,17 @@ Simply put, the default Minecraft launcher lacks a TON of features that make it 
 --------------------
 ## Modpacks
 <h3 align="center">Fabulously Optimized</h3>  
-<p align="center"><a href="https://modrinth.com/modpack/fabulously-optimized" target="_blank">Modrinth</a> / <a href="https://www.curseforge.com/minecraft/modpacks/fabulously-optimized" target="_blank">Curseforge</a> / <a href="https://fabulously-optimized.gitbook.io/modpack/" target="_blank">Website</a></p>
+<p align="center"><a href="https://modrinth.com/modpack/fabulously-optimized" target="_blank">Modrinth</a> / <a href="https://www.curseforge.com/minecraft/modpacks/fabulously-optimized" target="_blank">Curseforge</a> / <a href="https://fabulously-optimized.gitbook.io/modpack/" target="_blank">Website</a></p>  
+<p align="center">Fabulously Optimized is an optimization modpack for various versions of Minecraft which focuses on improving game performance without changing how the game actually plays. It supports most things Optifine does and you should have no issues getting accustomed to using it.  
+  
+<h3 align="center">Skyclient</h3> 
+<p align="center"><a href="https://skyclient.co/" target="_blank">Website</a> / <a href="https://microcontrollersdev.github.io/Alternatives/launcher/prism_win/#step-4-creating-an-instance" target="_blank">Setup Guide (using Prism)</a>
+<p align="center">Skyclient is a customizable modpack for 1.8.9 focused around Hypixel Skyblock. I <b>HIGHLY</b> recommend you read the setup guide above since Prism setup is a bit wonky.
+
+<p align="center">These are the two primary modpacks I use. One for modern survival and another for <s>grind hell</s> Skyblock. If you do not play Hypixel Skyblock then Skyclient isn't needed. I HIGHLY recommend Fabulously Optimized no matter what you are doing on Minecraft since it makes the game so much more playable. 
+
+--------------------
+## Resource Packs
 
 <b>WIP</b>
 
