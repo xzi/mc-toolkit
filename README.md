@@ -39,8 +39,9 @@ Simply put, the default Minecraft launcher lacks a TON of features that make it 
 
 --------------------
 ## Shader Packs
-
-<b>WIP</b>
+<h3 align="center">Slidur's Shaders</h3>  
+<p align="center"><a href="https://sildurs-shaders.github.io/" target="_blank">Website</a>
+<p align="center">I don't use shaders, but when I do, I use Sildur's Vibrant Shaders.
 
 --------------------
 ## Settings
