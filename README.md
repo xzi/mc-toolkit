@@ -30,6 +30,26 @@ Simply put, the default Minecraft launcher lacks a TON of features that make it 
 --------------------
 ## Settings
 
-<b>WIP</b>
+Below are the settings I use on my machine with Fabulously Optimized. My specs can be found [here](ADD SPECS DIMWIT). Adjust these as needed.
+
+- Music & Sounds
+	- Master Volume: 50%
+	- Music: Off (Get your own music, it's probably better)
+- Video Settings
+	- General
+		- Render Distance: 16 Chunks
+		- Simulation Distance: 12 Chunks
+		- Brightness: As high as you can make it go
+		- GUI Scale: 3x
+		- Fullscreen: Off
+		- VSync: On
+		- Max FPS: What my monitor supports (144 FPS)
+	- Quality
+		- Clouds: Off
+		- Weather: Fast
+		- Particles: Decreased
+- Controls
+	- Sprint: Toggle
+	- Auto-Jump: On
 
 --------------------
