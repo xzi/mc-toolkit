@@ -7,7 +7,7 @@ I have not and do not claim to have made anything linked here other than this li
 --------------------
 ## Launcher
 <center><h3>Prism Launcher</h3>  
-[Download here](https://github.com/PrismLauncher/PrismLauncher/releases/latest)</center>   
+ <a href="https://github.com/PrismLauncher/PrismLauncher/releases/latest" target="_blank">Download Here</a> 
 
 <b>Wait, why are we using a custom launcher?</b>  
 Simply put, the default Minecraft launcher lacks a TON of features that make it really annoying to use. Things such as all versions share the same .minecraft, no way to quickly swap out mods for different versions, and it just doesn't look all that nice. Prism fixes those issues while providing quality of life things that should have been in the default launcher.  It's still kind of rough around the edges but it works perfectly fine for mine and most people's purpose.
