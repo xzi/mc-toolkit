@@ -29,8 +29,13 @@ Simply put, the default Minecraft launcher lacks a TON of features that make it 
 
 --------------------
 ## Resource Packs
+<h3 align="center">Faithful</h3>  
+<p align="center"><a href="https://faithfulpack.net/" target="_blank">Website</a> / <a href="https://www.curseforge.com/minecraft/texture-packs/faithful-32x" target="_blank">Curseforge</a> / <a href="https://faithfulpack.net/addons/DotCrosshair" target="_blank">Dot Crosshair</a>
+<p align="center">Faithful needs no introduction. It's a phenomenal resource pack that was recently revived and I highly recommend using it if you want Minecraft but in a slightly higher resolution. There is a very popular addons section on the website if you are interested in different textures for certain things.  
 
-<b>WIP</b>
+<h3 align="center">F8thful</h3>
+<p align="center"><a href="https://ewanhowell.com/resourcepacks/f8thful/" target="_blank">Website</a> / <a href="https://www.curseforge.com/minecraft/texture-packs/f8thful" target="_blank">Curseforge</a>
+<p align="center">It's Minecraft, except lower res. I love 8x8 packs so I have this installed and occasionally use it. 
 
 --------------------
 ## Shader Packs
