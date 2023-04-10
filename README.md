@@ -1,4 +1,4 @@
-# ->Rucker's Minecraft Toolkit<-
+# Rucker's Minecraft Toolkit
 <h3 align="center"><b>MASSIVELY WIP!!!</h3></b>  
 
 This repo is a collection of links to things I use in order to make Minecraft more fun to play.  
