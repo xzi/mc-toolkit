@@ -30,7 +30,7 @@ Simply put, the default Minecraft launcher lacks a TON of features that make it 
 --------------------
 ## Settings
 
-Below are the settings I use on my machine with Fabulously Optimized. My specs can be found [here](ADD SPECS DIMWIT). Adjust these as needed.
+Below are the settings I use on my machine with Fabulously Optimized. My specs can be found [here](https://us-east-1.tixte.net/uploads/screenshots.blueberry.moe/Speccy64_jmr2W7nmbX.png). Adjust these as needed.
 
 - Music & Sounds
 	- Master Volume: 50%
